@@ -166,7 +166,7 @@ class _SettingsPageState extends State<SettingsPage> {
                           style: theme.textTheme.titleLarge,
                         ),
                         const SizedBox(height: 8),
-                        const Text('Version 1.0.0'),
+                        const Text('Version 0.1.0'),
                         const SizedBox(height: 8),
                         const Text(
                           'Your friendly weather companion for the Philippines, providing detailed weather information for cities and municipalities across the country.',
